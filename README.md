@@ -5,6 +5,8 @@
 
 ![örnek image](https://picsum.photos/200)
 
+
+
 ## Installation
 
 
@@ -34,6 +36,11 @@ code .
  
 
  Pul requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğiniz tartışmak için bir konu açınız
+
+## Me
+
+Patika.dev profilime ulaşmak için [tıklayınız.](https://app.patika.dev/narb)
+
 
  ## License
 
