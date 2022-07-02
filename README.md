@@ -39,7 +39,7 @@ code .
 
 ## Me
 
-Patika.dev profilime ulaşmak için [tıklayınız.](https://app.patika.dev/narb/edit/projects)
+Patika.dev profilime ulaşmak için [tıklayınız.](https://app.patika.dev/narb)
 
 
  ## License
